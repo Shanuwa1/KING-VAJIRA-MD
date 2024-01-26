@@ -10,13 +10,13 @@ global.email = 'botwhatsapp204@gmail.com'
 global.github = 'https://github.com/vajirabot1/KING-VAJIRA-MD'
 global.location = 'pakistan'
 global.gurl = 'https://instagram.com/naveeddogar_' // add your username
-global.sudo = process.env.SUDO || '923096566451'
-global.devs = '923096566451';
+global.sudo = process.env.SUDO || '94712557438'
+global.devs = '94705972348';
 global.website = 'https://github.com/vajirabot1/KING-VAJIRA-MD' // Hello world
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/09ab24679fb3a297a8905.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? '𝙆𝙄𝙉𝙂-𝙑𝘼𝙅𝙄𝙍𝘼-𝙈𝘿' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'Vajira Rathnayaka' : process.env.OWNER_NAME,
+  botname:   process.env.BOT_NAME === undefined ? '𝙆𝙄𝙉𝙂-𝘀𝗵𝗮𝗻𝘆𝘄𝗮-𝙈𝘿' : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? '𝘀𝗵𝗮𝗻𝘂 𝗥𝗮𝗷𝗮𝗽𝗮𝗸𝘀𝗵𝗮' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
   author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? 'Vajira-Rathnayaka' : process.env.PACK_AUTHER.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS  || 'true' ,
